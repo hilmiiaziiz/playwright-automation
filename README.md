@@ -15,13 +15,14 @@ This project demonstrates how to use Playwright with Cucumber for end-to-end (E2
 
    Navigate to the project directory:
 
-bash
-cd hilmiiaziiz/playwright-automation
+   ```bash
+   cd hilmiiaziiz/playwright-automation
+
 Install dependencies:
-bash
+   ```bash
 npm install
 
 Running Tests
 To run the tests, use the following command:
-bash
+   ```bash
 npx cucumber-js features/
